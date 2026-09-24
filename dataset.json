@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:49:00.414Z",
+  "generatedAt": "2026-09-24T04:29:51.740Z",
   "cards": [
     {
       "code": "0050",
@@ -619,7 +619,7 @@
       "name": "主動摩根台灣鑫收",
       "issuer": "jpmorgan",
       "isActive": true,
-      "nav": 3742479550,
+      "nav": 3732003750,
       "units": null,
       "tranDate": "2026-09-23",
       "postDate": "",
@@ -704,7 +704,7 @@
       "name": "主動摩根美國科技",
       "issuer": "jpmorgan",
       "isActive": true,
-      "nav": 1158431430,
+      "nav": 1157780260,
       "units": null,
       "tranDate": "2026-09-23",
       "postDate": "",
@@ -28878,7 +28878,7 @@
           "shares": 175,
           "sharesAfter": 175,
           "weightAfter": 0.6076,
-          "value": 7038629.36868
+          "value": 7034672.85976
         },
         {
           "etf": "0050",
@@ -29148,7 +29148,7 @@
           "shares": -435,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 4304731.19388
+          "value": 4302311.44616
         },
         {
           "etf": "0056",
@@ -29223,7 +29223,7 @@
           "shares": 2726,
           "sharesAfter": 4049,
           "weightAfter": 0.4533,
-          "value": 3563335.07868
+          "value": 3561332.07976
         },
         {
           "etf": "0050",
@@ -29298,7 +29298,7 @@
           "shares": -1000,
           "sharesAfter": 6268,
           "weightAfter": 1.5484,
-          "value": 3120814.272420001
+          "value": 3119060.020440001
         },
         {
           "etf": "0056",
@@ -32633,7 +32633,7 @@
           "shares": -683,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 3349025.2641300005
+          "value": 3347142.73166
         },
         {
           "etf": "00401A",
@@ -32753,7 +32753,7 @@
           "shares": 529,
           "sharesAfter": 529,
           "weightAfter": 0.2622,
-          "value": 3037407.2094599996
+          "value": 3035699.84172
         },
         {
           "etf": "006208",
@@ -33053,7 +33053,7 @@
           "shares": 182,
           "sharesAfter": 182,
           "weightAfter": 0.1555,
-          "value": 1801360.8736500002
+          "value": 1800348.3043
         },
         {
           "etf": "006208",
@@ -33098,7 +33098,7 @@
           "shares": 1323,
           "sharesAfter": 1323,
           "weightAfter": 0.1457,
-          "value": 1687834.5935099998
+          "value": 1686885.83882
         },
         {
           "etf": "0052",
@@ -36898,7 +36898,7 @@
           "shares": 1076,
           "sharesAfter": 6061,
           "weightAfter": 2.1912,
-          "value": 3900438.6248099976
+          "value": 3898246.1354199974
         },
         {
           "etf": "0050",
@@ -41363,7 +41363,7 @@
           "shares": -2063,
           "sharesAfter": 683,
           "weightAfter": 0.2746,
-          "value": 10588063.270200003
+          "value": 10582111.576400002
         },
         {
           "etf": "0050",
@@ -41858,7 +41858,7 @@
           "shares": 460,
           "sharesAfter": 460,
           "weightAfter": 0.2985,
-          "value": 3457917.8185499995
+          "value": 3455974.0761
         },
         {
           "etf": "00989A",
@@ -41873,7 +41873,7 @@
           "shares": -330,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 3402313.10991
+          "value": 3400400.6236200007
         },
         {
           "etf": "0050",
@@ -41963,7 +41963,7 @@
           "shares": -1239,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 2850899.74923
+          "value": 2849297.21986
         },
         {
           "etf": "00401A",
@@ -42323,7 +42323,7 @@
           "shares": 2245,
           "sharesAfter": 2245,
           "weightAfter": 0.1041,
-          "value": 1205927.11863
+          "value": 1205249.25066
         },
         {
           "etf": "00401A",
@@ -54958,7 +54958,7 @@
           "shares": -5375,
           "sharesAfter": 1239,
           "weightAfter": 0.2456,
-          "value": 13072898.68755
+          "value": 13065550.234100001
         },
         {
           "etf": "0050",
@@ -55423,7 +55423,7 @@
           "shares": 1432,
           "sharesAfter": 7604,
           "weightAfter": 4.7491,
-          "value": 9009121.231110003
+          "value": 9004057.082020003
         },
         {
           "etf": "0050",
@@ -57478,7 +57478,7 @@
           "shares": -1172,
           "sharesAfter": 14586,
           "weightAfter": 0.6109,
-          "value": 759931.0180799998
+          "value": 759503.8505599999
         },
         {
           "etf": "0056",
@@ -67693,7 +67693,7 @@
           "shares": -240,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 3387253.50132
+          "value": 3385349.48024
         },
         {
           "etf": "0056",
@@ -84298,7 +84298,7 @@
           "shares": 1112,
           "sharesAfter": 30415,
           "weightAfter": 1.3555,
-          "value": 199250.20595999862
+          "value": 199138.20471999864
         },
         {
           "etf": "0050",
@@ -91733,7 +91733,7 @@
           "shares": -4145,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 6122310.10755
+          "value": 6118868.6740999995
         },
         {
           "etf": "00407A",
@@ -91958,7 +91958,7 @@
           "shares": 366,
           "sharesAfter": 366,
           "weightAfter": 0.4646,
-          "value": 5382072.42378
+          "value": 5379047.08796
         },
         {
           "etf": "0052",
@@ -92063,7 +92063,7 @@
           "shares": 829,
           "sharesAfter": 829,
           "weightAfter": 0.3916,
-          "value": 4536417.4798799995
+          "value": 4533867.49816
         },
         {
           "etf": "00407A",
@@ -93398,7 +93398,7 @@
           "shares": -27,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 371856.48903
+          "value": 371647.46345999994
         },
         {
           "etf": "00993A",
@@ -96268,7 +96268,7 @@
           "shares": -3535,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 5435360.26956
+          "value": 5432304.97992
         },
         {
           "etf": "00982A",
@@ -96778,7 +96778,7 @@
           "shares": -2294,
           "sharesAfter": 4145,
           "weightAfter": 0.5285,
-          "value": 3219280.9439700004
+          "value": 3217471.3425400006
         },
         {
           "etf": "00982A",
@@ -96868,7 +96868,7 @@
           "shares": 1359,
           "sharesAfter": 2211,
           "weightAfter": 0.3945,
-          "value": 2831206.41492
+          "value": 2829614.95544
         },
         {
           "etf": "00993A",
@@ -98383,7 +98383,7 @@
           "shares": -1187,
           "sharesAfter": 30134,
           "weightAfter": 1.3929,
-          "value": 112367.84871000047
+          "value": 112304.68522000048
         },
         {
           "etf": "00401A",
@@ -105068,7 +105068,7 @@
           "shares": 487,
           "sharesAfter": 487,
           "weightAfter": 0.3005,
-          "value": 3481086.44715
+          "value": 3479129.6813
         },
         {
           "etf": "00989A",
@@ -105083,7 +105083,7 @@
           "shares": 438,
           "sharesAfter": 438,
           "weightAfter": 0.2965,
-          "value": 3434749.18995
+          "value": 3432818.4708999996
         },
         {
           "etf": "00982A",
@@ -105308,7 +105308,7 @@
           "shares": 515,
           "sharesAfter": 515,
           "weightAfter": 0.2139,
-          "value": 2477884.82877
+          "value": 2476491.9761400004
         },
         {
           "etf": "0050",
@@ -105353,7 +105353,7 @@
           "shares": -1577,
           "sharesAfter": 6439,
           "weightAfter": 0.811,
-          "value": 2381735.0200799988
+          "value": 2380396.214559999
         },
         {
           "etf": "0052",
@@ -105383,7 +105383,7 @@
           "shares": -1513,
           "sharesAfter": 3535,
           "weightAfter": 0.4722,
-          "value": 2261258.1513599996
+          "value": 2259987.0675199996
         },
         {
           "etf": "0050",
@@ -105458,7 +105458,7 @@
           "shares": -1816,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 2158157.75409
+          "value": 2156944.62438
         },
         {
           "etf": "0052",
@@ -105578,7 +105578,7 @@
           "shares": 852,
           "sharesAfter": 852,
           "weightAfter": 0.1513,
-          "value": 1752706.7535899999
+          "value": 1751721.53338
         },
         {
           "etf": "00919",
@@ -115613,7 +115613,7 @@
           "shares": -1442,
           "sharesAfter": 3189,
           "weightAfter": 2.891,
-          "value": 14790852.498239996
+          "value": 14782538.359679997
         },
         {
           "etf": "00992A",
@@ -115748,7 +115748,7 @@
           "shares": 2509,
           "sharesAfter": 2509,
           "weightAfter": 1.1763,
-          "value": 13626628.91109
+          "value": 13618969.198379999
         },
         {
           "etf": "00998A",
@@ -115973,7 +115973,7 @@
           "shares": 866,
           "sharesAfter": 866,
           "weightAfter": 0.84,
-          "value": 9730824.012
+          "value": 9725354.184
         },
         {
           "etf": "00995A",
@@ -116273,7 +116273,7 @@
           "shares": 1035,
           "sharesAfter": 5862,
           "weightAfter": 2.0388,
-          "value": 5998357.944540003
+          "value": 5994986.186280003
         },
         {
           "etf": "0050",
@@ -116543,7 +116543,7 @@
           "shares": 1785,
           "sharesAfter": 2871,
           "weightAfter": 0.6611,
-          "value": 4837609.65168
+          "value": 4834890.36576
         },
         {
           "etf": "00404A",
@@ -116678,7 +116678,7 @@
           "shares": -1865,
           "sharesAfter": 6998,
           "weightAfter": 1.7839,
-          "value": 4115906.870790002
+          "value": 4113593.263780002
         },
         {
           "etf": "00989A",
@@ -116693,7 +116693,7 @@
           "shares": -1826,
           "sharesAfter": 0,
           "weightAfter": 0,
-          "value": 4001222.15922
+          "value": 3998973.0180399995
         },
         {
           "etf": "00408A",
@@ -116843,7 +116843,7 @@
           "shares": -7932,
           "sharesAfter": 15758,
           "weightAfter": 0.6002,
-          "value": 3432432.32709
+          "value": 3430502.91038
         },
         {
           "etf": "0056",
@@ -116903,7 +116903,7 @@
           "shares": 2029,
           "sharesAfter": 7728,
           "weightAfter": 0.9641,
-          "value": 3031615.0523099992
+          "value": 3029910.9404199994
         },
         {
           "etf": "0056",
@@ -127608,7 +127608,7 @@
           "shares": 1271,
           "sharesAfter": 5699,
           "weightAfter": 0.7024,
-          "value": 2081701.2797099994
+          "value": 2080531.1272199997
         },
         {
           "etf": "0052",
