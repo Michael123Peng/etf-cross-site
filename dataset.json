@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T01:59:06.243Z",
+  "generatedAt": "2026-10-04T01:51:07.115Z",
   "cards": [
     {
       "code": "0050",
@@ -663,7 +663,7 @@
       "nav": 2541042827,
       "units": 146143000,
       "tranDate": "2026-10-01",
-      "postDate": "2026-10-03",
+      "postDate": "2026-10-04",
       "holdings": 29,
       "others": []
     },
@@ -753,7 +753,7 @@
       "nav": 582551629,
       "units": 39327000,
       "tranDate": "2026-09-30",
-      "postDate": "2026-10-03",
+      "postDate": "2026-10-04",
       "holdings": 36,
       "others": []
     }
