@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:48:55.044Z",
+  "generatedAt": "2026-10-25T02:43:07.436Z",
   "cards": [
     {
       "code": "0050",
@@ -424,7 +424,7 @@
       "nav": 10281190552,
       "units": 685458000,
       "tranDate": "2026-10-22",
-      "postDate": "2026-10-23",
+      "postDate": "2026-10-27",
       "holdings": 80,
       "others": []
     },
@@ -436,7 +436,7 @@
       "nav": 9343012684,
       "units": 728091000,
       "tranDate": "2026-10-22",
-      "postDate": "2026-10-23",
+      "postDate": "2026-10-27",
       "holdings": 50,
       "others": [
         {
@@ -456,7 +456,7 @@
       "nav": 7417040546,
       "units": 815988000,
       "tranDate": "2026-10-21",
-      "postDate": "2026-10-23",
+      "postDate": "2026-10-27",
       "holdings": 58,
       "others": [
         {
@@ -636,7 +636,7 @@
       "nav": 5496032827,
       "units": 562627000,
       "tranDate": "2026-10-21",
-      "postDate": "2026-10-23",
+      "postDate": "2026-10-27",
       "holdings": 50,
       "others": []
     },
@@ -765,7 +765,7 @@
       "nav": 2181637377,
       "units": 139143000,
       "tranDate": "2026-10-22",
-      "postDate": "2026-10-23",
+      "postDate": "2026-10-25",
       "holdings": 28,
       "others": []
     },
@@ -855,7 +855,7 @@
       "nav": 537463447,
       "units": 37827000,
       "tranDate": "2026-10-21",
-      "postDate": "2026-10-23",
+      "postDate": "2026-10-25",
       "holdings": 36,
       "others": []
     }
