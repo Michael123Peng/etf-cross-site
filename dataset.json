@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T02:43:07.436Z",
+  "generatedAt": "2026-10-26T02:29:41.916Z",
   "cards": [
     {
       "code": "0050",
@@ -715,7 +715,7 @@
       "name": "主動摩根台灣鑫收",
       "issuer": "jpmorgan",
       "isActive": true,
-      "nav": 3837535650,
+      "nav": 3844270650,
       "units": null,
       "tranDate": "2026-10-22",
       "postDate": "",
@@ -765,7 +765,7 @@
       "nav": 2181637377,
       "units": 139143000,
       "tranDate": "2026-10-22",
-      "postDate": "2026-10-25",
+      "postDate": "2026-10-26",
       "holdings": 28,
       "others": []
     },
@@ -855,7 +855,7 @@
       "nav": 537463447,
       "units": 37827000,
       "tranDate": "2026-10-21",
-      "postDate": "2026-10-25",
+      "postDate": "2026-10-26",
       "holdings": 36,
       "others": []
     }
@@ -86806,7 +86806,7 @@
           "shares": 1620,
           "sharesAfter": 7620,
           "weightAfter": 0.8482,
-          "value": 6051793.720049998
+          "value": 6062414.8150499975
         },
         {
           "etf": "00984A",
